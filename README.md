@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Vanessa Campioni 👋
 
-- 💻 Trabalho como estagiária em desenvolvimento web;
+- 💻 Trabalho como desenvolvedora web;
 - 📚 Atualmente estou estudando C# e JavaScript.
 
  <div>
