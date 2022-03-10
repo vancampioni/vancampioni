@@ -1,7 +1,7 @@
-### Olá! Eu sou a Vanessa Campioni 👋
+### Oi! Eu sou a Vanessa 👋
 
-- 💻 Trabalho como desenvolvedora web;
-- 📚 Atualmente estou estudando C# e JavaScript.
+- 💻 Trabalho com desenvolvimento web;
+- 📚 Atualmente estou me aprofundando na linguagem JavaScript.
 
  <div>
   <a href="https://github.com/vancampioni">
