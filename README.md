@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Vanessa 👋
 
-- 💻 Trabalho com desenvolvimento web;
+- 💻 Trabalho com desenvolvimento web fullstack;
 - 📚 Atualmente estou estudando JavaScript.
 
 <div style="display: inline_block"><br>
