@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Vanessa 👋
 
 - 💻 Trabalho com desenvolvimento web;
-- 📚 Atualmente estou estudando C#.
+- 📚 Atualmente estou estudando JavaScript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Van-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
