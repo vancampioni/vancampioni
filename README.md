@@ -1,7 +1,7 @@
-### Oi! Eu sou a Vanessa 👋
+### Hi! I'm Vanessa Campioni👋
 
-- 💻 Trabalho com desenvolvimento web fullstack;
-- 📚 Atualmente estou estudando JavaScript.
+- 💻 Full stack developer;
+- 📚 Currently learning JavaScript and C#.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Van-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
