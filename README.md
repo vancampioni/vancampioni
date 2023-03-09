@@ -1,7 +1,9 @@
 ### Hi! I'm Vanessa Campioni👋
 
 - 💻 Full stack developer;
-- 📚 Currently learning JavaScript and C#.
+- 📚 Currently learning JavaScript and C#;
+- 💡 Matters of interest: web, mobile and game development;
+- 🤍 Kindness and knowledge are the best things to be shared!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Van-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
