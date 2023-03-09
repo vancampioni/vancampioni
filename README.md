@@ -1,6 +1,6 @@
 ### Hi! I'm Vanessa Campioni👋
 
-- 💻 Full stack web developer;
+- 💻 Full stack developer;
 - 📚 Currently learning JavaScript and C#.
 
 <div style="display: inline_block"><br>
