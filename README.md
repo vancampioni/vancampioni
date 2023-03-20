@@ -1,7 +1,7 @@
 ### Hi! I'm Vanessa Campioni👋
 
 - 💻 Full stack developer;
-- 📚 Currently focused on front-end and improving my knowledge in React.js;
+- 📚 Currently focused on front-end and improving my knowledge on React.js;
 - 💡 Matters of interest: web, mobile and game development;
 - 🤍 Kindness and knowledge are the best things to be shared!
 
