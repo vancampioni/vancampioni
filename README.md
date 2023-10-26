@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vanessa Campioni</h1>
-<h3 align="center">A passionate data analyst from Brazil.</h3>
 
 - 🌱 I’m currently learning **data analysis with Python and demonstration of results with Power BI**
 
