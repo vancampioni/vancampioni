@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vanessa Campioni</h1>
+<h1 align="center">Hi 👋 I'm Vanessa Campioni</h1>
 
-- 🌱 I’m currently learning **data analysis with Python and demonstration of results with Power BI**
+- 🌱 I’m a full stack developer focused on **React and React Native.**
+- I also work with **Node and Python** for back-end development.
 
 - 📫 How to reach me **vanessacrtsilva@gmail.com**
 
