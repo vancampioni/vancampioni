@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Vanessa Campioni</h1>
 
-- 🌱 I’m a full stack developer focused on **React and React Native.**
+- I’m a full stack developer focused on **React and React Native.**
 - I also work with **Node and Python** for back-end development.
 
 - 📫 How to reach me **vanessacrtsilva@gmail.com**
